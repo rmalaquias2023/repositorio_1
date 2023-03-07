@@ -1,4 +1,4 @@
-print ('SEJA BEM VINDO AO MENU DE TAREFAS')
+print ('++++MENU PRINCIPAL++++')
 print (''' 
     1 - CRIAR ATIVIDADES
     2 - ATUALIZAR ATIVIDADES
