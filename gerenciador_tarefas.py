@@ -1,4 +1,4 @@
-print ('Bem vindo ao Gerenciador de tarefas')
+print ('MENU DE TAREFAS')
 print (''' 
     1 - CRIAR ATIVIDADES
     2 - ATUALIZAR ATIVIDADES
