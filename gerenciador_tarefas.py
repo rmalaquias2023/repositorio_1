@@ -1,4 +1,4 @@
-print ('MENU PRINCIPAL')
+print ('++++MENU PRINCIPAL++++')
 print (''' 
     1 - CRIAR ATIVIDADES
     2 - ATUALIZAR ATIVIDADES
